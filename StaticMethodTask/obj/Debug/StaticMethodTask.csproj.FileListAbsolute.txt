@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\StaticMethodTask\StaticMethodTask\obj\Debug\StaticMethodTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StaticMethodTask\StaticMethodTask\obj\Debug\StaticMethodTask.csproj.CoreCompileInputs.cache
